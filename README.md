@@ -1,4 +1,3 @@
-::: {align="center"}
 # ⚙️ Concurrent Linear Algebra Engine
 
 **Multithreaded matrix computation with custom task scheduling**
